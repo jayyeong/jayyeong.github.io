@@ -1,0 +1,6 @@
+---
+const {title='정제영 — Portfolio',description='화면을 만들고, 서비스가 이어지도록. 정제영의 웹 개발 포트폴리오.'}=Astro.props;
+const base=import.meta.env.BASE_URL;
+import './style.css';
+---
+<!doctype html><html lang="ko"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><meta name="description" content={description}/><meta name="theme-color" content="#f8f8f5"/><title>{title}</title><link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml"/></head><body><a class="skip" href="#main">본문 바로가기</a><header class="header"><a class="wordmark" href={base}>정제영 <span>JEYOUNG</span></a><nav aria-label="주 메뉴"><a href={`${base}#work`}>Work</a><a href={`${base}#about`}>About</a><a href="https://github.com/jayyeong">GitHub ↗</a></nav></header><main id="main"><slot/></main><footer><span>© 2026 정제영</span><span>Built with care.</span><a href="#main">맨 위로 ↑</a></footer></body></html>

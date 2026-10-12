@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.DS_Store
+
+# Local research notes and preview captures
+docs/자료-근거.md
+docs/검증-기록.md
+docs/*-preview.jpg
