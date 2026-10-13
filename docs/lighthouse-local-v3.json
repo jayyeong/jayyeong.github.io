@@ -1,0 +1,114 @@
+[
+  {
+    "page": "home",
+    "mode": "mobile",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "lcp": 1352.6821,
+    "cls": 0
+  },
+  {
+    "page": "home",
+    "mode": "desktop",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "lcp": 321.6433,
+    "cls": 0
+  },
+  {
+    "page": "kuad",
+    "mode": "mobile",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "lcp": 1652.6992,
+    "cls": 0
+  },
+  {
+    "page": "kuad",
+    "mode": "desktop",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "lcp": 364.114,
+    "cls": 0
+  },
+  {
+    "page": "rag",
+    "mode": "mobile",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "lcp": 900.9641999999999,
+    "cls": 0
+  },
+  {
+    "page": "rag",
+    "mode": "desktop",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "lcp": 241.93060000000003,
+    "cls": 0
+  },
+  {
+    "page": "vision",
+    "mode": "mobile",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "lcp": 901.2706000000001,
+    "cls": 0
+  },
+  {
+    "page": "vision",
+    "mode": "desktop",
+    "version": "13.5.0",
+    "scores": {
+      "performance": 100,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 100,
+      "agentic-browsing": 100
+    },
+    "lcp": 240.9432,
+    "cls": 0
+  }
+]
