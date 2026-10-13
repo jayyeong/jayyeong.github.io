@@ -1,0 +1,514 @@
+[
+  {
+    "route": "/",
+    "width": 280,
+    "height": 653,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 320,
+    "height": 568,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 360,
+    "height": 800,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 390,
+    "height": 844,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 412,
+    "height": 915,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 568,
+    "height": 320,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 667,
+    "height": 375,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 760,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 761,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 768,
+    "height": 1024,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 1000,
+    "height": 800,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 1024,
+    "height": 768,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 1280,
+    "height": 720,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 1440,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 1920,
+    "height": 1080,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/",
+    "width": 2560,
+    "height": 1440,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 280,
+    "height": 653,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 320,
+    "height": 568,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 360,
+    "height": 800,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 390,
+    "height": 844,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 412,
+    "height": 915,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 568,
+    "height": 320,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 667,
+    "height": 375,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 760,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 761,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 768,
+    "height": 1024,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 1000,
+    "height": 800,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 1024,
+    "height": 768,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 1280,
+    "height": 720,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 1440,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 1920,
+    "height": 1080,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/kuad/",
+    "width": 2560,
+    "height": 1440,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 280,
+    "height": 653,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 320,
+    "height": 568,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 360,
+    "height": 800,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 390,
+    "height": 844,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 412,
+    "height": 915,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 568,
+    "height": 320,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 667,
+    "height": 375,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 760,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 761,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 768,
+    "height": 1024,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 1000,
+    "height": 800,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 1024,
+    "height": 768,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 1280,
+    "height": 720,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 1440,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 1920,
+    "height": 1080,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/rag/",
+    "width": 2560,
+    "height": 1440,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 280,
+    "height": 653,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 320,
+    "height": 568,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 360,
+    "height": 800,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 390,
+    "height": 844,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 412,
+    "height": 915,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 568,
+    "height": 320,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 667,
+    "height": 375,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 760,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 761,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 768,
+    "height": 1024,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 1000,
+    "height": 800,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 1024,
+    "height": 768,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 1280,
+    "height": 720,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 1440,
+    "height": 900,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 1920,
+    "height": 1080,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  },
+  {
+    "route": "/work/painting-robot/",
+    "width": 2560,
+    "height": 1440,
+    "brokenImages": 0,
+    "missingAnchors": 0,
+    "overflow": false
+  }
+]

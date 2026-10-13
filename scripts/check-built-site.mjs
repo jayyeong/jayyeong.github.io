@@ -7,13 +7,24 @@ const files=(await walk(root)).filter(f=>f.endsWith('.html'));
 const errors=[];
 for(const file of files){
  const html=await readFile(file,'utf8');
- for(const match of html.matchAll(/(?:href|src)=["']([^"']+)["']/g)){
-  const url=match[1];if(/^(?:[a-z]+:|\/\/|#)/i.test(url))continue;
+ const urls=[...html.matchAll(/(?:href|src)=["']([^"']+)["']/g)].map(m=>m[1]);
+ for(const m of html.matchAll(/srcset=["']([^"']+)["']/g))urls.push(...m[1].split(',').map(item=>item.trim().split(/\s+/)[0]));
+ for(const url of urls){
+  if(/^(?:[a-z]+:|\/\/)/i.test(url))continue;
   let pathname=decodeURIComponent(url.split(/[?#]/)[0]);
   if(base&&pathname.startsWith(base+'/'))pathname=pathname.slice(base.length);
-  let target=pathname.startsWith('/')?path.join(root,pathname):path.resolve(path.dirname(file),pathname);
-  try{if((await stat(target)).isDirectory())await stat(path.join(target,'index.html'))}catch{errors.push(`${path.relative(root,file)}: ${url}`)}
+  let target=!pathname?file:pathname.startsWith('/')?path.join(root,pathname):path.resolve(path.dirname(file),pathname);
+  try{
+   if((await stat(target)).isDirectory())target=path.join(target,'index.html');
+   await stat(target);
+   const hash=url.includes('#')?decodeURIComponent(url.split('#')[1]):'';
+   if(hash&&target.endsWith('.html')){
+    const targetHtml=await readFile(target,'utf8');
+    const ids=[...targetHtml.matchAll(/id=["']([^"']+)["']/g)].map(m=>m[1]);
+    if(!ids.includes(hash))errors.push(`${path.relative(root,file)}: missing anchor ${url}`);
+   }
+  }catch{errors.push(`${path.relative(root,file)}: ${url}`)}
  }
 }
 if(errors.length){console.error('Broken local links/assets:\n'+errors.join('\n'));process.exit(1)}
-console.log(`Checked local links and assets in ${files.length} pages.`);
+console.log(`Checked local links, fragment anchors, srcset and assets in ${files.length} pages.`);
