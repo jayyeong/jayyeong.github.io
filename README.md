@@ -1,13 +1,13 @@
 # 정제영 포트폴리오
 
-Astro 기반 정적 포트폴리오. 홈과 KUAD 상세 페이지를 포함합니다.
+Astro 기반 정적 포트폴리오. 홈과 KUAD·RAG 챗봇·페인팅 로봇 상세 페이지를 포함합니다.
 
 ## 실행
 Node.js 22 사용. `npm ci`, `npm run dev` 실행 후 http://localhost:4321 에서 확인합니다. `npm run build`로 dist를 만들고 `npm run preview`로 빌드 결과를 확인합니다.
 
 ## 파일
 - src/pages/index.astro: 홈
-- src/pages/work/kuad.astro: 프로젝트 상세
+- src/pages/work/: 프로젝트 상세 3종
 - src/layouts/style.css: 반응형 디자인
 - docs/제작-지침서.md: 제작·운영 기준
 
